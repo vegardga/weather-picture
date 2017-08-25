@@ -1,6 +1,17 @@
 # weather-picture
 Picture that fetches weather data and light up LEDs based on it.
 
+Keywords:
+- Raspberry Pi Zero W
+- LED
+- Python
+- Gpiozero
+- crontab
+- Flaticon
+- MagPi
+- QR Code
+- IKEA
+
 ## Picture
 ![Weather picture](https://github.com/vegardga/weather-picture/blob/master/images/picture.png "Weather picture")
 
@@ -56,12 +67,22 @@ while True:
 ```
 
 ## Final
+Lights up the corresponding icon based on weather data.
+
 ![With lights](https://github.com/vegardga/weather-picture/blob/master/images/IMG_8022.JPG "With lights")
+
+Raspberry Pi Zero W.
 
 ![Raspberry Pi Zero W](https://github.com/vegardga/weather-picture/blob/master/images/IMG_8018.JPG "Raspberry Pi Zero W")
 
+Picture frame from IKEA.
+
 ![From the side](https://github.com/vegardga/weather-picture/blob/master/images/IMG_8019.JPG "From the side")
 
+Quote taken from MagPi.
+
 ![Quote](https://github.com/vegardga/weather-picture/blob/master/images/IMG_8026.JPG "Quote")
+
+Picture is printed on A3.
 
 ![Print](https://github.com/vegardga/weather-picture/blob/master/images/IMG_8027.JPG "Print")
